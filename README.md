@@ -95,7 +95,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 🧑‍💻 Developer Info
 
 **👤 Author:** [Suraj Sonawane](https://github.com/Suraj051198)  
-**📧 Contact:** surajsonawane051198@gmail.com  
+**📧 Contact:** surajsonawane172@gmail.com  
 **🔗 Repo:** [YouTube Connect Hub](https://github.com/Suraj051198/YouTube-Connect-Hub)
 
 ---
